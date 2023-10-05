@@ -1,4 +1,4 @@
 # -Simple-Virtual-Keyboard
 
-//// first project from a while
+//// first project in a while
 // virtual keyboard html/css
